@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "824966357675",
+    "firebase_url": "https://playapp-d58f7.firebaseio.com",
+    "project_id": "playapp-d58f7",
+    "storage_bucket": "playapp-d58f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824966357675:android:e6f141f767766bcc",
+        "android_client_info": {
+          "package_name": "com.example.k.playapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824966357675-0hl5vibtsljoto9b5ug2hvev1sqm29ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.k.playapp",
+            "certificate_hash": "d467ab4336f46385f684ba0f3616afbbb6435644"
+          }
+        },
+        {
+          "client_id": "824966357675-p3mk28savsq3116a7sefn43oj8v0dtat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKh3KvEFhrKsoXwNlkdxlFxZvtm_NDXbQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824966357675-p3mk28savsq3116a7sefn43oj8v0dtat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
